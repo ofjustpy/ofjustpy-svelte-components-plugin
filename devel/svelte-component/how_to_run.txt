@@ -1,0 +1,5 @@
+git clone
+npm init vite@latest
+cd svelte-component/
+npm install
+vite -c vite.config.js build
